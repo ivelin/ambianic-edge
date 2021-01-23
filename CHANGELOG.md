@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+## [1.9.6](https://github.com/ivelin/ambianic-edge/compare/v1.9.5...v1.9.6) (2021-01-23)
+
+
+### Bug Fixes
+
+* clean up fall detections logging ([88a4352](https://github.com/ivelin/ambianic-edge/commit/88a4352400612b89a617b1200b84272db61f6e41))
+
 ## [1.9.5](https://github.com/ivelin/ambianic-edge/compare/v1.9.4...v1.9.5) (2021-01-23)
 
 
