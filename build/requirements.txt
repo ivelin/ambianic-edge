@@ -15,7 +15,7 @@ cookies>=2.2.1
 concurrent-log-handler>=0.9.19
 cryptography>=2.8,<36.0.1
 decorator>=4.3.0
-dynaconf>=3.1
+dynaconf>=3.2.13
 fastapi>0.68
 entrypoints>=0.3
 gast>=0.2.2
