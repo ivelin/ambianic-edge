@@ -17,7 +17,7 @@ cryptography>=2.8,<36.0.1
 decorator>=4.3.0
 dynaconf>=3.1
 fastapi>0.68
-entrypoints>=0.3
+entrypoints>=0.4
 gast>=0.2.2
 google-pasta>=0.1.7
 # grpcio>=1.26
