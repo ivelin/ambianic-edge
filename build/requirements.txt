@@ -32,7 +32,7 @@ httpretty>=1.1
 Pillow>=5.4.1
 pyOpenSSL>=19.0.0
 pytest-mock>=3.6.1
-PyYAML>=5.1.2
+PyYAML>=6.0.3
 peerjs>1.5
 requests>=2.25
 requests-oauthlib>=1.0.0
