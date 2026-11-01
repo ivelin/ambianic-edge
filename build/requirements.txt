@@ -44,7 +44,7 @@ webencodings>=0.5.1
 watchdog>=0.10
 
 # test tools
-codecov>=2.1.12
+codecov>=2.1.13
 pytest>=6.2.5
 pytest-mock>=3.6.1
 pytest-cov>=3.0.0
